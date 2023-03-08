@@ -1,5 +1,5 @@
 # CTML
-This is the experimental code for our TPAMI paper "Clustered Task-Aware Meta-Learning by Learning from Learning Paths".  
+This is the experimental code for our paper "Clustered Task-Aware Meta-Learning by Learning from Learning Paths".  
 
 ## Requirements
 python 2.*  

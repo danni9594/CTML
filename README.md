@@ -160,6 +160,17 @@ To train the proposed model and variants on MovieLens-1M under different setting
 Meta-testing will be automatically performed after every epoch of meta-training.
 
 
-
+# Acknowledgement
 This code is modified based on [ARML](https://github.com/huaxiuyao/ARML) and [MeLU](https://github.com/hoyeoplee/MeLU). We thank the authors for their contributions.
 
+# Citation
+If you find this repo useful in your research, please cite the following:
+```
+@article{peng2023clustered,
+  title={Clustered Task-Aware Meta-Learning by Learning From Learning Paths},
+  author={Peng, Danni and Pan, Sinno Jialin},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2023},
+  publisher={IEEE}
+}
+```
